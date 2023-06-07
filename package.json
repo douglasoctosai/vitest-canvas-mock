@@ -1,7 +1,7 @@
 {
   "name": "vitest-canvas-mock",
   "type": "module",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "packageManager": "pnpm@7.3.0",
   "description": "🌗 A module used to mock canvas in Vitest.",
   "author": "Robert Soriano <sorianorobertc@gmail.com>",
@@ -44,7 +44,8 @@
     "vitest": "*"
   },
   "dependencies": {
-    "jest-canvas-mock": "^2.4.0"
+    "jest-canvas-mock": "^2.4.0",
+    "pnpm": "^8.6.1"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.25.1",
